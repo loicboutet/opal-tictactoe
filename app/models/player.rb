@@ -1,3 +1,6 @@
+# Code by Martin Van Aken of 8th Color
+# https://github.com/8thcolor/ttt 
+
 class Player
   def initialize(game, number)
     @game = game

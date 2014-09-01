@@ -1,3 +1,6 @@
+# Code by Martin Van Aken of 8th Color
+# https://github.com/8thcolor/ttt 
+
 class Game
 
   def initialize(next_player)
