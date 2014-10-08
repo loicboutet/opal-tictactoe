@@ -1,4 +1,5 @@
 # opal-todos
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/loicboutet/opal-tictactoe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A very simple port of [TodoMVC](http://todomvc.com) (specifically based on backbone version).
 
